@@ -9,13 +9,14 @@ Basicamente la serie trata sobre eso la convivencia de los distintos miembros de
 ![The office](https://user-images.githubusercontent.com/114964339/218775584-85252cb6-7cb3-4265-b9e4-a81fa8986d2a.jpg)
 
 ##Actores de la serie:
-  *Steve Carell
-   *Jenna Fischer
-    *John Krasinski
-     *Rainn Wilson
-      *B. J. Novak
-       *Angela Kinsey
-        *Paul Lieberstein
-         *Brian Baumgartner
-          *Oscar Nuñez
-           *Phyllis Smith
+  Steve Carell
+   *que tambien participo en la serie over the top
+  Jenna Fischer
+   *tambien trabajo en que fue de brad 
+    *The guest book
+  John Krasinski
+   *Tambien trabajo en Jarhead
+  Rainn Wilson
+   *Almost famous
+    *Galaxy quest
+
