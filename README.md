@@ -10,16 +10,20 @@ Un poco mas de informacion de la serie: https://es.wikipedia.org/wiki/The_Office
 
 Actores de la serie:
   Steve Carell
+  
   *que tambien participo en la serie over the top
   
   Jenna Fischer
+  
   *tambien trabajo en que fue de brad 
   *The guest book
   
   John Krasinski
+  
   *Tambien trabajo en Jarhead
   
   Rainn Wilson
+  
   *Almost famous
   *Galaxy quest
 
