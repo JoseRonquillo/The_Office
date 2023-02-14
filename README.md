@@ -4,19 +4,22 @@ me gusta porque me parece una comedia con una idea interesante 😌 aunque al in
 
 Basicamente la serie trata sobre eso la convivencia de los distintos miembros de una oficina 😁😁😁😁
 
-###Un poco mas de informacion de la serie: https://es.wikipedia.org/wiki/The_Office
+Un poco mas de informacion de la serie: https://es.wikipedia.org/wiki/The_Office
 
 ![The office](https://user-images.githubusercontent.com/114964339/218775584-85252cb6-7cb3-4265-b9e4-a81fa8986d2a.jpg)
 
-##Actores de la serie:
+Actores de la serie:
   Steve Carell
-   *que tambien participo en la serie over the top
+  *que tambien participo en la serie over the top
+  
   Jenna Fischer
-   *tambien trabajo en que fue de brad 
-    *The guest book
+  *tambien trabajo en que fue de brad 
+  *The guest book
+  
   John Krasinski
-   *Tambien trabajo en Jarhead
+  *Tambien trabajo en Jarhead
+  
   Rainn Wilson
-   *Almost famous
-    *Galaxy quest
+  *Almost famous
+  *Galaxy quest
 
