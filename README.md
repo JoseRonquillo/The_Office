@@ -1,4 +1,5 @@
 # The_Office
+#Mi_serie_favorita
 ## ¿Porque me gusta?
 me gusta porque me parece una comedia con una idea interesante 😌 aunque al inicio algunos capitulos son algo aburridos 😅 solo es de entender un poco mas la dinamica de la serie y es muy divertida y entretenida 😀
 
@@ -11,6 +12,7 @@ Un poco mas de informacion de la serie: https://es.wikipedia.org/wiki/The_Office
 
 
 Actores de la serie:
+
   1)Steve Carell
   
     -que tambien participo en la serie over the top
